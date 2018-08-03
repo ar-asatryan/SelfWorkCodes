@@ -24,11 +24,11 @@ namespace Tutorial
                 b = numFib;
             }
 
-            Console.WriteLine("Sequence of Fibonacci");
-            for (int i = 0; i < arrFib.Length; i++)
-            {
-                Console.Write(arrFib[i] + " ");
-            }
+            //Console.WriteLine("Sequence of Fibonacci");
+            //for (int i = 0; i < arrFib.Length; i++)
+            //{
+            //    Console.Write(arrFib[i] + " ");
+            //}
 
             int[] array = new int[14];
             array[0] = 3;
