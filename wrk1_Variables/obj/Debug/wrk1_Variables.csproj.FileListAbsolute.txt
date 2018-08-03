@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\bin\Debug\wrk1_Variables.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\bin\Debug\wrk1_Variables.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\bin\Debug\wrk1_Variables.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\obj\Debug\wrk1_Variables.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\obj\Debug\wrk1_Variables.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\obj\Debug\wrk1_Variables.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk1_Variables\obj\Debug\wrk1_Variables.pdb

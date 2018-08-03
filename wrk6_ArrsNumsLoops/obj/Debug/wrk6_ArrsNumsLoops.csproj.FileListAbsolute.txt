@@ -1,0 +1,6 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\bin\Debug\wrk6_ArrsNumsLoops.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\bin\Debug\wrk6_ArrsNumsLoops.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\bin\Debug\wrk6_ArrsNumsLoops.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\obj\Debug\wrk6_ArrsNumsLoops.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\obj\Debug\wrk6_ArrsNumsLoops.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk6_ArrsNumsLoops\obj\Debug\wrk6_ArrsNumsLoops.pdb

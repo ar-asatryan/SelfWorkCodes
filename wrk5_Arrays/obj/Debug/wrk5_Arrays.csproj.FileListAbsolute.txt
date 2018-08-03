@@ -1,0 +1,6 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\bin\Debug\wrk5_Arrays.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\bin\Debug\wrk5_Arrays.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\bin\Debug\wrk5_Arrays.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\obj\Debug\wrk5_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\obj\Debug\wrk5_Arrays.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk5_Arrays\obj\Debug\wrk5_Arrays.pdb
