@@ -30,6 +30,41 @@ namespace wrk6_ArrsNumsLoops
                 Console.Write($"{array[i]}, ");
             }
 
+            //տրված է զանգված....գտնել զանգվածում այն թվերը, որոնց ինդեքսները Ֆիբոնաչիի թվեր են։
+            Console.Write("Insert Dimension of Fibonacci Sequence: ");
+            int indexFib = int.Parse(Console.ReadLine());
+
+            int a = 0;
+            int b = 1;
+            int numFib = 0;
+            int[] arrFib = new int[indexFib];
+            for (int i = 0; i < indexFib; i++)
+            {
+                arrFib[i] = numFib;
+                numFib = a + b;
+                a = b;
+                b = numFib;
+            }
+
+            Console.WriteLine("Sequence of Fibonacci");
+            for (int i = 0; i < arrFib.Length; i++)
+            {
+                Console.Write(arrFib[i] + " ");
+            }
+
+
+            Console.WriteLine("\r\nresult is:");
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int k = 0; k < arrFib.Length; k++)
+                {
+                    if (i == arrFib[k])
+                    {
+                        Console.WriteLine($"index{i}>>>{array[i]}");
+                    }
+                }
+            }
+
 
 
 
