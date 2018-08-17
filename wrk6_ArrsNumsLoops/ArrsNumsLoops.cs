@@ -6,9 +6,6 @@ namespace wrk6_ArrsNumsLoops
     {
         static void Main(string[] args)
         {
-            //int num1 = int.Parse(Console.ReadLine());
-            //int num2 = int.Parse(Console.ReadLine());
-
             int[] array = new int[14];
             array[0] = 3;
             array[1] = 252;
@@ -25,12 +22,41 @@ namespace wrk6_ArrsNumsLoops
             array[12] = 1;
             array[13] = 909;
 
-            for (int i = 0; i < array.Length; i++)
+            //4.Գտնել տրված թվի ամենամեծ թվանշանը:
+            Console.WriteLine("Insert input Number>>");
+            int inpNum = int.Parse(Console.ReadLine());
+            int[] arrDigits = new int[inpNum.ToString().Length];
+            Console.WriteLine($"The Length of an InpNum is:  {inpNum.ToString().Length}");
+            int max = arrDigits[0];
+            int digit;
+            int ind = 0;
+            while (inpNum != 0)
             {
-                Console.Write($"{array[i]}, ");
+                digit = inpNum % 10;
+                Console.WriteLine($"digits >> {digit}");
+                arrDigits[ind] = digit;
+                ind++;
+                inpNum /= 10;
             }
 
-            //տրված է զանգված....գտնել զանգվածում այն թվերը, որոնց ինդեքսները Ֆիբոնաչիի թվեր են։
+            for (int j = 0; j < arrDigits.Length; j++)
+            {
+                if (arrDigits[j] > max)
+                {
+                    max = arrDigits[j];
+                }
+            }
+
+            Console.WriteLine("Digits Array>>");
+            for (int k = 0; k < arrDigits.Length; k++)
+            {
+                Console.Write(arrDigits[k] + " ");
+            }
+
+            Console.WriteLine($"\r\nMaximum Digit of an input Number is>> {max}");
+
+
+            //6.Տրված է զանգված....գտնել զանգվածում այն թվերը, որոնց ինդեքսները Ֆիբոնաչիի թվեր են։
             Console.Write("Insert Dimension of Fibonacci Sequence: ");
             int indexFib = int.Parse(Console.ReadLine());
 
@@ -51,8 +77,6 @@ namespace wrk6_ArrsNumsLoops
             {
                 Console.Write(arrFib[i] + " ");
             }
-
-
             Console.WriteLine("\r\nresult is:");
             for (int i = 0; i < array.Length; i++)
             {
