@@ -21,18 +21,18 @@ namespace Tutorial
             {
                 if (arr[i] % 2 == 0)
                 {
-                    sum += i;
+                    sum += arr[i];
                     count++;
                 }
             }
+
 
             for (int i = 0; i < arr.Length; i++)
             {
                 if (Tutorial.MethodSimpNum(arr[i]) == 1)
                 {
-                    Console.WriteLine($"\r\nNumeric Average of Even Nums {sum/count}");                    
+                    Console.WriteLine($"\r\nNumeric Average of Even Nums: {sum/count}");                    
                 }
-
                 else
                 {
                     Console.WriteLine($"\r\nMaximum element >> {MaxElementFromArray(arr)}");
