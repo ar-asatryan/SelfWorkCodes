@@ -29,7 +29,7 @@ namespace Tutorial
 
             for (int i = 0; i < arr.Length; i++)
             {
-                if (Tutorial.MethodSimpNum(arr[i]) == 1)
+                if (Tutorial.CheckPrimeNum(arr[i]) == 1)
                 {
                     Console.WriteLine($"\r\nNumeric Average of Even Nums: {sum/count}");                    
                 }
@@ -59,17 +59,17 @@ namespace Tutorial
 
 
 
-        static int MethodSimpNum(int inputNumber)
+        static int CheckPrimeNum(int inputNumber)
         {
-            int simpNum = 1;
+            int primeNum = 1;
             for (int i = 2; i < inputNumber; i++)
             {
                 if (inputNumber % i == 0)
                 {
-                    simpNum = 0;
+                    primeNum = 0;
                 }
             }
-            return simpNum;
+            return primeNum;
         }
 
 
