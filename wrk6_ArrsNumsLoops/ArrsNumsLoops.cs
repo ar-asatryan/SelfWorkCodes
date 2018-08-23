@@ -22,6 +22,10 @@ namespace wrk6_ArrsNumsLoops
             array[12] = 1;
             array[13] = 909;
 
+            //1.Տրված է զանգված...գտնել մեծագույնը և փոքրագույնը, տեղերով փոխել:
+
+
+
             //4.Գտնել տրված թվի ամենամեծ թվանշանը:
             Console.WriteLine("Insert input Number>>");
             int inpNum = int.Parse(Console.ReadLine());
