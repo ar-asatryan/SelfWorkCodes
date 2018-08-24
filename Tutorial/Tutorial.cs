@@ -8,30 +8,16 @@ namespace Tutorial
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Type:");
-            //int inputN = int.Parse(Console.ReadLine());
 
             int[] arr = CreateRandomArray();
             PrintArr(arr);
-
-            int sum = 0;
-            int count = 0;
-            
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] % 2 == 0)
-                {
-                    sum += arr[i];
-                    count++;
-                }
-            }
-
 
             for (int i = 0; i < arr.Length; i++)
             {
                 if (Tutorial.CheckPrimeNum(arr[i]) == 1)
                 {
-                    Console.WriteLine($"\r\nNumeric Average of Even Nums: {sum/count}");                    
+                    double average = GetAverageForEvenNums(arr);
+                    Console.WriteLine($"\r\nNumeric Average of Even Nums: {average}");                    
                 }
                 else
                 {
@@ -41,8 +27,10 @@ namespace Tutorial
             }
 
 
+
             Console.ReadLine();
         }
+
 
         static int[] CreateRandomArray(int countArr = 15, int minValue = 50, int maxValue = 90)
         {
@@ -56,6 +44,8 @@ namespace Tutorial
             }
             return arrRand;
         }
+
+
 
 
 
@@ -82,7 +72,7 @@ namespace Tutorial
         }
 
 
-        static void EvenNums(int[] arr)
+        static double GetAverageForEvenNums(int[] arr)
         {
             int sum = 0;
             int count = 0;
@@ -90,10 +80,12 @@ namespace Tutorial
             {
                 if (arr[i] % 2 == 0)
                 {
-                    sum += i;
+                    sum += arr[i];
                     count++;
                 }
             }
+
+            return sum / count;
 
         }
 
