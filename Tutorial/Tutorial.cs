@@ -10,11 +10,12 @@ namespace Tutorial
         {
 
             int[] arr = CreateRandomArray();
+            Console.WriteLine("Please see Below Elements of an Random Array:");
             PrintArr(arr);
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int ind = 0; ind < arr.Length; ind++)
             {
-                if (Tutorial.CheckPrimeNum(arr[i]) == 1)
+                if (Tutorial.CheckPrimeNum(arr[ind]) == 1)
                 {
                     double average = GetAverageForEvenNums(arr);
                     Console.WriteLine($"\r\nNumeric Average of Even Nums: {average}");                    
@@ -28,14 +29,16 @@ namespace Tutorial
 
 
 
+
             Console.ReadLine();
         }
 
 
+        
+
         static int[] CreateRandomArray(int countArr = 15, int minValue = 50, int maxValue = 90)
         {
             int[] arrRand = new int[countArr];
-
             Random rand = new Random();
 
             for (int i = 0; i < arrRand.Length; i++)
@@ -84,9 +87,7 @@ namespace Tutorial
                     count++;
                 }
             }
-
             return sum / count;
-
         }
 
 
@@ -102,6 +103,7 @@ namespace Tutorial
             }
             return max;
         }
+
 
 
     }
