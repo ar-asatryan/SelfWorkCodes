@@ -8,24 +8,23 @@ namespace Tutorial
     {
         static void Main(string[] args)
         {
+            int[] array = new int[14];
+            array[0] = 3;
+            array[1] = 252;
+            array[2] = -9;
+            array[3] = 0;
+            array[4] = 14;
+            array[5] = 5;
+            array[6] = 131;
+            array[7] = 6;
+            array[8] = 7913;
+            array[9] = 484;
+            array[10] = 22;
+            array[11] = 28;
+            array[12] = 1;
+            array[13] = 909;
 
-            int[] arr = CreateRandomArray();
-            Console.WriteLine("Please see Below Elements of an Random Array:");
-            PrintArr(arr);
-
-            for (int ind = 0; ind < arr.Length; ind++)
-            {
-                if (Tutorial.CheckPrimeNum(arr[ind]) == 1)
-                {
-                    double average = GetAverageForEvenNums(arr);
-                    Console.WriteLine($"\r\nNumeric Average of Even Nums: {average}");                    
-                }
-                else
-                {
-                    Console.WriteLine($"\r\nMaximum element >> {MaxElementFromArray(arr)}");
-                }
-                break;
-            }
+            
 
 
 
@@ -33,76 +32,93 @@ namespace Tutorial
             Console.ReadLine();
         }
 
-
-        
-
-        static int[] CreateRandomArray(int countArr = 15, int minValue = 50, int maxValue = 90)
+        public static void MergeSort(int[] input, int low, int high)
         {
-            int[] arrRand = new int[countArr];
-            Random rand = new Random();
-
-            for (int i = 0; i < arrRand.Length; i++)
+            if (low < high)
             {
-                arrRand[i] = rand.Next(minValue, maxValue);                
+                int middle = (low / 2) + (high / 2);
+                MergeSort(input, low, middle);
+                MergeSort(input, middle + 1, high);
+                Merge(input, low, middle, high);
             }
-            return arrRand;
         }
 
-
-
-
-
-        static int CheckPrimeNum(int inputNumber)
+        public static void MergeSort(int[] input)
         {
-            int primeNum = 1;
-            for (int i = 2; i < inputNumber; i++)
+            MergeSort(input, 0, input.Length - 1);
+        }
+
+        private static void Merge(int[] input, int low, int middle, int high)
+        {
+
+            int left = low;
+            int right = middle + 1;
+            int[] tmp = new int[(high - low) + 1];
+            int tmpIndex = 0;
+
+            while ((left <= middle) && (right <= high))
             {
-                if (inputNumber % i == 0)
+                if (input[left] < input[right])
                 {
-                    primeNum = 0;
+                    tmp[tmpIndex] = input[left];
+                    left = left + 1;
+                }
+                else
+                {
+                    tmp[tmpIndex] = input[right];
+                    right = right + 1;
+                }
+                tmpIndex = tmpIndex + 1;
+            }
+
+            if (left <= middle)
+            {
+                while (left <= middle)
+                {
+                    tmp[tmpIndex] = input[left];
+                    left = left + 1;
+                    tmpIndex = tmpIndex + 1;
                 }
             }
-            return primeNum;
-        }
 
-
-        static void PrintArr(int[] arr)
-        {
-            foreach (var item in arr)
+            if (right <= high)
             {
-                Console.Write($"{item}  " );
-            }
-        }
-
-
-        static double GetAverageForEvenNums(int[] arr)
-        {
-            int sum = 0;
-            int count = 0;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] % 2 == 0)
+                while (right <= high)
                 {
-                    sum += arr[i];
-                    count++;
+                    tmp[tmpIndex] = input[right];
+                    right = right + 1;
+                    tmpIndex = tmpIndex + 1;
                 }
             }
-            return sum / count;
-        }
 
-
-        static int MaxElementFromArray(int[] arr)
-        {
-            int max = arr[0];            
-            for (int i = 0; i < (arr.Length - 1); i++)
+            for (int i = 0; i < tmp.Length; i++)
             {
-                if (arr[i] > max)
-                {
-                    max = arr[i];
-                }
+                input[low + i] = tmp[i];
             }
-            return max;
+
         }
+
+        public static string PrintArray(int[] input)
+        {
+            string result = String.Empty;
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                result = result + input[i] + " ";
+            }
+            if (input.Length == 0)
+            {
+                result = "Array is empty.";
+                return result;
+            }
+            else
+            {
+                return result;
+            }
+        }
+
+
+
 
 
 

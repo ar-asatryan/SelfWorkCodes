@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrk2_Operators", "wrk2_Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrk7_Sorting", "wrk7_Sorting\wrk7_Sorting.csproj", "{DEF1E4C2-91B8-474E-B58A-04A34E8024F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrk8_IfAnyPrimeNumAverageMax", "wrk8_IfAnyPrimeNumAverageMax\wrk8_IfAnyPrimeNumAverageMax.csproj", "{61F77D0C-D782-4E44-8821-DC3485A74DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrk9_LinearSort", "wrk9_LinearSort\wrk9_LinearSort.csproj", "{153565FC-55CD-4907-B7BE-FD0BF0B9BC1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{DEF1E4C2-91B8-474E-B58A-04A34E8024F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEF1E4C2-91B8-474E-B58A-04A34E8024F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEF1E4C2-91B8-474E-B58A-04A34E8024F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F77D0C-D782-4E44-8821-DC3485A74DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F77D0C-D782-4E44-8821-DC3485A74DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F77D0C-D782-4E44-8821-DC3485A74DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F77D0C-D782-4E44-8821-DC3485A74DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153565FC-55CD-4907-B7BE-FD0BF0B9BC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153565FC-55CD-4907-B7BE-FD0BF0B9BC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153565FC-55CD-4907-B7BE-FD0BF0B9BC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153565FC-55CD-4907-B7BE-FD0BF0B9BC1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

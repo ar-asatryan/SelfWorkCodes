@@ -24,9 +24,48 @@ namespace wrk6_ArrsNumsLoops
 
             //1.Տրված է զանգված...գտնել մեծագույնը և փոքրագույնը, տեղերով փոխել:
 
+            Console.WriteLine("Input Array>>");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            Console.WriteLine();
+
+            int maxEl = array[0];
+            int maxIndex = 0;
+            for (int index = 0; index < array.Length; index++)
+            {
+                if (array[index] > maxEl)
+                {
+                    maxEl = array[index];
+                    maxIndex = index;
+                }
+            }
+
+            int minEl = array[0];
+            int minIndex = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] < minEl)
+                {
+                    minEl = array[i];
+                    minIndex = i;
+                }
+            }
+
+            array[maxIndex] = minEl;
+            array[minIndex] = maxEl;
+
+            Console.WriteLine("Final Array>>");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            Console.WriteLine();
 
 
             //4.Գտնել տրված թվի ամենամեծ թվանշանը:
+
             Console.WriteLine("Insert input Number>>");
             int inpNum = int.Parse(Console.ReadLine());
             int[] arrDigits = new int[inpNum.ToString().Length];
@@ -61,6 +100,7 @@ namespace wrk6_ArrsNumsLoops
 
 
             //6.Տրված է զանգված....գտնել զանգվածում այն թվերը, որոնց ինդեքսները Ֆիբոնաչիի թվեր են։
+
             Console.Write("Insert Dimension of Fibonacci Sequence: ");
             int indexFib = int.Parse(Console.ReadLine());
 

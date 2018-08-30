@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\bin\Debug\wrk8_IfAnyPrimeNumAverageMax.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\bin\Debug\wrk8_IfAnyPrimeNumAverageMax.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\bin\Debug\wrk8_IfAnyPrimeNumAverageMax.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\obj\Debug\wrk8_IfAnyPrimeNumAverageMax.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\obj\Debug\wrk8_IfAnyPrimeNumAverageMax.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\obj\Debug\wrk8_IfAnyPrimeNumAverageMax.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk8_IfAnyPrimeNumAverageMax\obj\Debug\wrk8_IfAnyPrimeNumAverageMax.pdb
