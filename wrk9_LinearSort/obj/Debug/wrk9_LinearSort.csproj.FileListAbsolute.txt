@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\bin\Debug\wrk9_LinearSort.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\bin\Debug\wrk9_LinearSort.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\bin\Debug\wrk9_LinearSort.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\obj\Debug\wrk9_LinearSort.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\obj\Debug\wrk9_LinearSort.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\obj\Debug\wrk9_LinearSort.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk9_LinearSort\obj\Debug\wrk9_LinearSort.csprojAssemblyReference.cache

@@ -71,7 +71,8 @@ namespace wrk8_IfAnyPrimeNumAverageMax
                 return true;
             if (n % 2 == 0)
                 return false;
-            for (int i = 3; i < n/2; i=i+2)
+            double result = Math.Sqrt(n);
+            for (int i = 3; i < result; i=i+2)
             {
                 if (n % i == 0)
                     return false;

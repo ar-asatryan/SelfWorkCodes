@@ -51,10 +51,10 @@ namespace wrk7_Sorting
 
 
         static void BubbleSortedArray(int[] arr)
-        {            
+        {
             for (int i = 0; i < arr.Length; i++)
             {
-                for (int j = i + 1; j < arr.Length - 1; j++)
+                for (int j = 0; j < arr.Length - 1 - i; j++)
                 {
                     if (arr[j] > arr[j + 1])
                     {
@@ -68,7 +68,10 @@ namespace wrk7_Sorting
 
         static void Swap(int[] arr, int ind1, int ind2)
         {
-            
+            for (int i = 0; i < arr.Length; i++)
+            {
+                                
+            }
         }
 
         static int[] CreateRandomArray(int count, int minValue, int maxValue)
