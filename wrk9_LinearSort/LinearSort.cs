@@ -18,15 +18,13 @@ namespace wrk9_LinearSort
             for (int i = 0; i < arr.Length; i++)
             {
                 countArrElems[arr[i]] += 1;
-            }
-            //Console.WriteLine("Count Array>>");
-            //PrintArrInt(countarr);
-
+            }            
+            
             int i1 = 0;
             byte[] temparr = new byte[1000];
             for (byte i = 0; i < countArrElems.Length; i++)
             {
-                Console.WriteLine($"i = {i} \r\n countarr[i] = {countArrElems[i]}");
+                Console.WriteLine($"i = {i} \r\n countArr[{i}] = {countArrElems[i]}");
                 for (int j = i1; j < i1 + countArrElems[i]; j++)
                 {
                     temparr[j] = i;
@@ -54,15 +52,7 @@ namespace wrk9_LinearSort
             }
         }
 
-
-
-        static void PrintArrInt(int[] arr)
-        {
-            foreach (int item in arr)
-            {
-                Console.Write(item + " ");
-            }
-        }
+        
 
 
     }
