@@ -10,17 +10,8 @@ namespace wrk7_Sorting
             int dim = int.Parse(Console.ReadLine());
             int[] inpArr = new int[dim];
 
-            Console.WriteLine($"Type The Elements of your {dim}-size Array:");
-            for (int ind = 0; ind < inpArr.Length; ind++)
-            {
-                inpArr[ind] = int.Parse(Console.ReadLine());
-            }
-
             Console.WriteLine("Input Array of an Integers:");
-            for (int i = 0; i < inpArr.Length; i++)
-            {
-                Console.Write(inpArr[i] + " ");
-            }
+
             Console.WriteLine("\r\n");
 
             BubbleSortedArray(inpArr);
