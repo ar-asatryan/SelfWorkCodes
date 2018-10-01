@@ -11,9 +11,6 @@ namespace Tutorial
 
 
 
-
-
-
             Console.ReadLine();
         }
 
