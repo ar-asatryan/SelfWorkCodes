@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\bin\Debug\wrk005.Arrays.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\bin\Debug\wrk005.Arrays.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\bin\Debug\wrk005.Arrays.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\obj\Debug\wrk005.Arrays.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\obj\Debug\wrk005.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\obj\Debug\wrk005.Arrays.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk005.Arrays\obj\Debug\wrk005.Arrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\bin\Debug\wrk002.Operators.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\bin\Debug\wrk002.Operators.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\bin\Debug\wrk002.Operators.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\obj\Debug\wrk002.Operators.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\obj\Debug\wrk002.Operators.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk002.Operators\obj\Debug\wrk002.Operators.pdb

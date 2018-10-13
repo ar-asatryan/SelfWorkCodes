@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\bin\Debug\wrk003.Conditional.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\bin\Debug\wrk003.Conditional.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\bin\Debug\wrk003.Conditional.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\obj\Debug\wrk003.Conditional.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\obj\Debug\wrk003.Conditional.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\obj\Debug\wrk003.Conditional.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk003.Conditional\obj\Debug\wrk003.Conditional.pdb

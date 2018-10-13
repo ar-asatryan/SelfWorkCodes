@@ -1,6 +1,0 @@
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\bin\Debug\wrk4_Loops.exe.config
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\bin\Debug\wrk4_Loops.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\bin\Debug\wrk4_Loops.pdb
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\obj\Debug\wrk4_Loops.csproj.CoreCompileInputs.cache
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\obj\Debug\wrk4_Loops.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk4_Loops\obj\Debug\wrk4_Loops.pdb

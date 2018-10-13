@@ -1,7 +1,0 @@
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\bin\Debug\wrk7_Sorting.exe.config
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\bin\Debug\wrk7_Sorting.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\bin\Debug\wrk7_Sorting.pdb
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\obj\Debug\wrk7_Sorting.csprojAssemblyReference.cache
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\obj\Debug\wrk7_Sorting.csproj.CoreCompileInputs.cache
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\obj\Debug\wrk7_Sorting.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk7_Sorting\obj\Debug\wrk7_Sorting.pdb

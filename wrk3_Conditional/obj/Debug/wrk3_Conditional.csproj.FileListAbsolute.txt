@@ -1,6 +1,0 @@
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\bin\Debug\wrk3_Conditional.exe.config
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\bin\Debug\wrk3_Conditional.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\bin\Debug\wrk3_Conditional.pdb
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\obj\Debug\wrk3_Conditional.csproj.CoreCompileInputs.cache
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\obj\Debug\wrk3_Conditional.exe
-C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\SelfWorkCodes\wrk3_Conditional\obj\Debug\wrk3_Conditional.pdb
