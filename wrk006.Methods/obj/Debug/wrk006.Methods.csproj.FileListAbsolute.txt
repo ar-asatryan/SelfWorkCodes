@@ -1,0 +1,14 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_Projects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\bin\Debug\wrk006.Methods.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk006.Methods\obj\Debug\wrk006.Methods.pdb

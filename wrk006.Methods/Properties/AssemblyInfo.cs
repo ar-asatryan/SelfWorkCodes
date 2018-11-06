@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("wrk006.Sorting")]
+[assembly: AssemblyTitle("wrk006.Methods")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Synopsys Inc.")]
-[assembly: AssemblyProduct("wrk006.Sorting")]
+[assembly: AssemblyProduct("wrk006.Methods")]
 [assembly: AssemblyCopyright("Copyright © Synopsys Inc. 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ccea9a36-6afd-40a5-95d2-88676fd71e75")]
+[assembly: Guid("d83f0651-54b7-4de0-8650-f8b5ff028b0f")]
 
 // Version information for an assembly consists of the following four values:
 //
