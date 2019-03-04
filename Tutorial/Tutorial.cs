@@ -68,23 +68,24 @@ namespace Tutorial
             return primeNums;
         }
 
-        public static int[] CreateRandomArr(int count, int minValue, int maxValue)
+        public static int[] CreateRandomArr(int count, int minValue ,int maxValue)
         {
+            int[] arr = new int[count];
             Random rnd = new Random();
-            var arr = new int[count];
-            for (int i = 0; i < count; i++)
+            for (int i = 0;  i < arr.Length; i++)
             {
                 arr[i] = rnd.Next(minValue,maxValue);
             }
+                
             return arr;
         }
 
         static void Print(List<int> list)
         {
-            int[] arr = list.ToArray();
-            for (int i = 0; i < arr.Length; i++)
+
+            foreach (var item in list)
             {
-                Console.WriteLine($"elem{i} = {arr[i]}");
+                Console.WriteLine(item);
             }
         }
 

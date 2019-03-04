@@ -1,0 +1,7 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\bin\Debug\wrk008.Sorting.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\bin\Debug\wrk008.Sorting.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\bin\Debug\wrk008.Sorting.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\obj\Debug\wrk008.Sorting.csprojAssemblyReference.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\obj\Debug\wrk008.Sorting.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\obj\Debug\wrk008.Sorting.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\C#_LearnProjects\SelfWorkCodes\wrk008.Sorting\obj\Debug\wrk008.Sorting.pdb

@@ -21,6 +21,7 @@ namespace wrk006.Methods
 
 
 
+
             Console.ReadLine();
         }
 
